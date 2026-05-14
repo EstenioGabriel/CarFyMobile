@@ -8,9 +8,9 @@ export function Layout() {
       <header className="bg-white shadow-sm z-10 px-4 py-3 pt-[calc(0.75rem+env(safe-area-inset-top))] flex items-center justify-between shrink-0">
         <div className="flex items-center gap-2">
           <div className="w-8 h-8 bg-blue-600 text-white rounded-lg flex items-center justify-center font-bold text-lg">
-            A
+            CF
           </div>
-          <h1 className="font-bold text-lg text-gray-800 tracking-tight">AutoBusca</h1>
+          <h1 className="font-bold text-lg text-gray-800 tracking-tight">CarFy</h1>
         </div>
       </header>
 
